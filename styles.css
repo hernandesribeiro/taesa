@@ -1,0 +1,22 @@
+
+.stbutton>button{
+    font-size: 20;
+    background-color: rgb(77, 37,255);
+
+}
+.stbutton>button:hover{
+
+    font-size: 20;
+    color:#fff;
+    background-color: rgb(77, 37,255);
+    border-color: brown;
+
+}
+
+.stSelectbox>label{
+
+    font-size: 20;
+    font-weight: bold;
+    color:black
+
+}
