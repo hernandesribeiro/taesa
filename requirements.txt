@@ -1,0 +1,15 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+
+langchain==0.2.11
+langchain-openai==0.1.7
+langchain-community==0.2.3
+faiss-cpu==1.7.4
+
+openai==1.35.3
+tiktoken==0.7.0
+
+python-dotenv==1.0.1
+streamlit-option-menu
